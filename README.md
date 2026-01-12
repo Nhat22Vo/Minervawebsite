@@ -1,8 +1,6 @@
 
   # Premium Creative Agency Website
 
-  This is a code bundle for Premium Creative Agency Website. The original project is available at https://www.figma.com/design/iLhhZoJC4bMCSlcRSZ4ddQ/Premium-Creative-Agency-Website.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
